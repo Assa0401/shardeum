@@ -169,11 +169,6 @@ Diagnostic endpoints to check the health of the node
 
 We welcome contributions! Please see our [Contribution Guidelines](CONTRIBUTING.md) for more information. All contributors are expected to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
 
-## Community
-
-- [GitHub Discussions](https://github.com/shardeum/shardeum/discussions)
-- [Discord](https://discord.com/invite/shardeum)
-- [X (formerly Twitter)](https://x.com/Shardeum)
 
 ## License
 
